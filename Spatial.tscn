@@ -1,0 +1,24 @@
+[gd_scene load_steps=4 format=2]
+
+[ext_resource path="res://Floor.tscn" type="PackedScene" id=1]
+[ext_resource path="res://ambulance.tscn" type="PackedScene" id=2]
+
+[sub_resource type="BoxShape" id=1]
+
+[node name="Spatial" type="Spatial"]
+
+[node name="Camera" type="Camera" parent="."]
+transform = Transform( 0.0179053, 0.0458071, -0.99879, -0.0515292, 0.997665, 0.0448317, 0.998511, 0.0506641, 0.0202239, -5.95336, 0.86522, 1.28612 )
+
+[node name="ambulance" parent="." instance=ExtResource( 2 )]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -1.9744, 2.24001, 0 )
+
+[node name="Floor" parent="." instance=ExtResource( 1 )]
+
+[node name="RigidBody" type="RigidBody" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 3.59953, 4.71556 )
+
+[node name="CSGBox" type="CSGBox" parent="RigidBody"]
+
+[node name="CollisionShape" type="CollisionShape" parent="RigidBody"]
+shape = SubResource( 1 )

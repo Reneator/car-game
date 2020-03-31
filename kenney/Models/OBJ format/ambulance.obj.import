@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/ambulance.obj-618af9cef9fba3b93d92adc20ae6ae59.mesh"
+
+[deps]
+
+files=[ "res://.import/ambulance.obj-618af9cef9fba3b93d92adc20ae6ae59.mesh" ]
+
+source_file="res://kenney/Models/OBJ format/ambulance.obj"
+dest_files=[ "res://.import/ambulance.obj-618af9cef9fba3b93d92adc20ae6ae59.mesh", "res://.import/ambulance.obj-618af9cef9fba3b93d92adc20ae6ae59.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

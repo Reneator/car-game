@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/deliveryFlat.obj-147f226f6f928607b351b5e5a3dd9535.mesh"
+
+[deps]
+
+files=[ "res://.import/deliveryFlat.obj-147f226f6f928607b351b5e5a3dd9535.mesh" ]
+
+source_file="res://kenney/Models/OBJ format/deliveryFlat.obj"
+dest_files=[ "res://.import/deliveryFlat.obj-147f226f6f928607b351b5e5a3dd9535.mesh", "res://.import/deliveryFlat.obj-147f226f6f928607b351b5e5a3dd9535.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

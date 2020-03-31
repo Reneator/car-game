@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/suvLuxury.obj-2327265adb2603f7d9ec10e8de61a31a.mesh"
+
+[deps]
+
+files=[ "res://.import/suvLuxury.obj-2327265adb2603f7d9ec10e8de61a31a.mesh" ]
+
+source_file="res://kenney/Models/OBJ format/suvLuxury.obj"
+dest_files=[ "res://.import/suvLuxury.obj-2327265adb2603f7d9ec10e8de61a31a.mesh", "res://.import/suvLuxury.obj-2327265adb2603f7d9ec10e8de61a31a.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

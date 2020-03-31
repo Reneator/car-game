@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/tractor.obj-825d7d60169bf05f1a001f56702b836e.mesh"
+
+[deps]
+
+files=[ "res://.import/tractor.obj-825d7d60169bf05f1a001f56702b836e.mesh" ]
+
+source_file="res://kenney/Models/OBJ format/tractor.obj"
+dest_files=[ "res://.import/tractor.obj-825d7d60169bf05f1a001f56702b836e.mesh", "res://.import/tractor.obj-825d7d60169bf05f1a001f56702b836e.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

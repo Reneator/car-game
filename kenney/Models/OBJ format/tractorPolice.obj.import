@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/tractorPolice.obj-90a7ef4f4b454d30bffc7548318f6e0c.mesh"
+
+[deps]
+
+files=[ "res://.import/tractorPolice.obj-90a7ef4f4b454d30bffc7548318f6e0c.mesh" ]
+
+source_file="res://kenney/Models/OBJ format/tractorPolice.obj"
+dest_files=[ "res://.import/tractorPolice.obj-90a7ef4f4b454d30bffc7548318f6e0c.mesh", "res://.import/tractorPolice.obj-90a7ef4f4b454d30bffc7548318f6e0c.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

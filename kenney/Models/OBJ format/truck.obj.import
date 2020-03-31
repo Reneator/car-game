@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/truck.obj-5757f0b1b73f1d77fde8e6002eead87c.mesh"
+
+[deps]
+
+files=[ "res://.import/truck.obj-5757f0b1b73f1d77fde8e6002eead87c.mesh" ]
+
+source_file="res://kenney/Models/OBJ format/truck.obj"
+dest_files=[ "res://.import/truck.obj-5757f0b1b73f1d77fde8e6002eead87c.mesh", "res://.import/truck.obj-5757f0b1b73f1d77fde8e6002eead87c.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true
